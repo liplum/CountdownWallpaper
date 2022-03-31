@@ -1,0 +1,10 @@
+{
+  "Title": "距离高考还有{0}天{1}小时",
+  "HourDigits": 0,
+  "UpdateInterval": 1800,
+  "FontPath": "SourceHanSans.ttf",
+  "FontSize": 70,
+  "AutoStartShToAppdata": false,
+  "AutoStartShName": "AutoUpdateGaoKaoWallpaper.bat",
+  "AutoStartDir": "Microsoft/Windows/Start Menu/Programs/Startup"
+}

@@ -1,0 +1,2 @@
+If you live in China, you have to do the following.
+Copy folder ".\pip" into "%APPDATA%\"
